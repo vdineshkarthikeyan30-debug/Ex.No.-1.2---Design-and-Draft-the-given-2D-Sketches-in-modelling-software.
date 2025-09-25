@@ -1,4 +1,5 @@
-https://edm-1-2.tiiny.site
+[EDM 1.2 - Copy (5).pdf](https://github.com/user-attachments/files/22528998/EDM.1.2.-.Copy.5.pdf)
+
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM

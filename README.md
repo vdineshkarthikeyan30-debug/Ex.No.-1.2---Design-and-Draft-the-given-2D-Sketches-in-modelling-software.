@@ -1,4 +1,5 @@
-[EDM 1.2 - Copy (5).pdf](https://github.com/user-attachments/files/22528998/EDM.1.2.-.Copy.5.pdf)
+[DINESH KARTHIKEYAN V (3).pdf](https://github.com/user-attachments/files/22709674/DINESH.KARTHIKEYAN.V.3.pdf)
+
 
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 

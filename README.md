@@ -1,8 +1,5 @@
-[DINESH KARTHIKEYAN V (3).pdf](https://github.com/user-attachments/files/22709674/DINESH.KARTHIKEYAN.V.3.pdf)
-
-
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+<img width="1313" height="815" alt="Screenshot 2025-10-05 192755" src="https://github.com/user-attachments/assets/9c33e212-e140-434f-b3a9-9cecf566de2b" />
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
